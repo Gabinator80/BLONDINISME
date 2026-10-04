@@ -8,6 +8,8 @@
 
 *{
 	background-image: url(https://static.neopse.com/thumbs/p/3457/site/53/8c/a7/538ca74c6620c365f677d7d4d169d6676fd2cb71.png?v=v1);
+	background-repeat: none; 
+	background-size: cover;
 }
 
 #gif1 {
